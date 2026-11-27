@@ -2,6 +2,18 @@
 
 Trò chơi xếp hình chạy trong terminal, phát triển từ mã C++ ban đầu.
 
+
+## Thành viên nhóm
+
+| Họ và tên            | MSSV     | GitHub                                         |
+|----------------------|----------|------------------------------------------------|
+| Ngô Thành An         | 26730083 | [annt95](https://github.com/annt95)            |
+| Nguyễn Hữu Trương    | 26730143 | [26730143](https://github.com/26730143)        |
+| Nguyễn Minh Tiến     | 26730137 | [UIT26730137](https://github.com/UIT26730137)  |
+| Đặng Thị Phương Anh  | 26730137 | [UIT26730137](https://github.com/UIT26730137)  |
+| Lê Châu Toàn         | 26730137 | [UIT26730137](https://github.com/UIT26730137)  |
+
+
 ## Yêu cầu
 
 - Trình biên dịch hỗ trợ C++17.
